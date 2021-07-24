@@ -1,0 +1,14 @@
+{
+   "server": {
+      "host": "localhost",
+      "host": "3000"
+   },
+   "db": {
+      "connectionLimit": 3,
+      "host": "localhost",
+      "user": "user",
+      "password": "password",
+      "database": "database"
+   }
+}
+
